@@ -1,7 +1,7 @@
 # Bulk-Change-Zabbix-Usernames
 Super dumb script to alter bulk usernames in Zabbix via RubyAPI and text file.
 
-Use the API connector for ruby [https://github.com/express42/zabbixapi]
+Use the API connector for ruby https://github.com/express42/zabbixapi
 
 ### 1) Fill in the connection details for Zabbix API
 ```
