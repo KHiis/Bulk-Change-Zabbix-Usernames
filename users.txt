@@ -1,0 +1,2 @@
+currentname new.name
+currentname2 new.name2
