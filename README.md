@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/KHiis/Bulk-Change-Zabbix-Usernames.svg?branch=master)](https://travis-ci.org/KHiis/Bulk-Change-Zabbix-Usernames)
+
 # Bulk-Change-Zabbix-Usernames
 Super dumb script to alter bulk usernames in Zabbix via RubyAPI and text file.
 
